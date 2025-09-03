@@ -1,10 +1,16 @@
-After all the changes you can run.
+Install dependencies
+
+```sh
+npm install
+```
+
+Run the project in development mode
 
 ```sh
 npm run start
 ```
 
-Or create the build if you are ready to deploy.
+Create a build for deployment
 
 ```sh
 npm run build
